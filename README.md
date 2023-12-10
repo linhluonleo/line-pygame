@@ -1,7 +1,9 @@
-<h1>Lines in pygame</h1>
-<h2>About the project</h2>
-<p>- These are simply lines</p>
-<video src="src/video.mp4" controls title="Title"></video>
-<h2>Requirements</h2>
-<p>- pygame-ce</p>
+# Lines in pygame
+## 1. About the project
+- These are simply lines
+## 2. Video
+![using a color picker](src/video.gif)
+## 3. Requirements
+- Python
+- Pygame-ce
 
